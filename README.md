@@ -4,30 +4,7 @@ A collection of industrial automation projects developed using **Siemens TIA Por
 
 ## Projects
 
-### 1. Lift Control System — 3-Floor Elevator
-
-A PLC-based control system that simulates a three-floor elevator with realistic floor selection, direction control, multi-floor request handling, timing logic, and safety interlocking.
-
-**Key Features:**
-- 3-floor elevator control
-- Floor request memory and queuing
-- Current and target floor tracking
-- Automatic UP/DOWN direction control
-- UP/DOWN interlocking
-- Timer-based floor sequencing
-- Start/Stop and safety logic
-- Factory I/O integration
-
-**Technologies:**
-- Siemens TIA Portal V19
-- S7-1200 PLC
-- Ladder Logic (LAD)
-- Factory I/O
-- S7-PLCSIM
-
----
-
-### 2. Weight-Based Box Sorting System
+### 1. Weight-Based Box Sorting System
 
 An automated conveyor system that measures the weight of incoming boxes and sorts them into three different categories based on their measured weight. The system routes boxes to the appropriate exit lane and maintains separate production counts for each category.
 
@@ -55,6 +32,29 @@ An automated conveyor system that measures the weight of incoming boxes and sort
 - S7-1200 PLC
 - Ladder Logic (LAD)
 - HMI
+- Factory I/O
+- S7-PLCSIM
+
+---
+
+### 2. Lift Control System — 3-Floor Elevator
+
+A PLC-based control system that simulates a three-floor elevator with realistic floor selection, direction control, multi-floor request handling, timing logic, and safety interlocking.
+
+**Key Features:**
+- 3-floor elevator control
+- Floor request memory and queuing
+- Current and target floor tracking
+- Automatic UP/DOWN direction control
+- UP/DOWN interlocking
+- Timer-based floor sequencing
+- Start/Stop and safety logic
+- Factory I/O integration
+
+**Technologies:**
+- Siemens TIA Portal V19
+- S7-1200 PLC
+- Ladder Logic (LAD)
 - Factory I/O
 - S7-PLCSIM
 
