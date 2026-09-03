@@ -4,7 +4,7 @@ A collection of industrial automation projects developed using **Siemens TIA Por
 
 ## Projects
 
-### 1. Weight-Based Box Sorting System
+### 1. Weight_Based_Box_Sorting_System
 
 An automated conveyor system that measures the weight of incoming boxes and sorts them into three different categories based on their measured weight. The system routes boxes to the appropriate exit lane and maintains separate production counts for each category.
 
